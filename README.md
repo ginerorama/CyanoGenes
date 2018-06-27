@@ -11,7 +11,7 @@ CyanoGenes is an user-friendly gene annotation tool for cyanobacteria developed 
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/ginerorama/CyanoGenes/blob/master/images/picture1.png" width="330" height="420">
+<img src="https://github.com/ginerorama/CyanoGenes/blob/master/images/picture1.png" width="370" height="480">
 <br />
 <br />
 
@@ -71,5 +71,5 @@ CyanoGenes generates a txt file as output with all three different sections that
 <img src="https://github.com/ginerorama/CyanoGenes/blob/master/images/output.png" >
 <br />
 <br />
-	Output file. In this example only Regulatory functions was enriched with a p-value 0.00414
+	Output file. In this example a total of 17 genes were annotated and the Regulatory functional category was enriched with a p-value 0.00414. 
 	
