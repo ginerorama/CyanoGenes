@@ -63,3 +63,13 @@ CyanoGenes generates a txt file as output with all three different sections that
 1) Gene annotation section: which contains the GeneID, Gene Symbol, gene Description and Functional Category.
 2) Gene set enrichment analysis: Functional Categories that were enriched in your set of genes according to t-test analysis.
 3) Functional Categories description: complete analysis of gene distribution along the funcional categories, including number of genes and percentages.
+
+
+<br />
+<br />
+<p align="center">
+<img src="https://github.com/ginerorama/CyanoGenes/blob/master/images/output.png" >
+<br />
+<br />
+	Output file. In this example only Regulatory functions was enriched with a p-value 0.00414
+	
