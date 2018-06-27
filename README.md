@@ -44,6 +44,10 @@ CyanoGenes requieres a txt file containing all the orfs in a single column. Cyan
 
 
 
+<p align="center">
+<img src="https://github.com/ginerorama/CyanoGenes/blob/master/images/input.png" width="600" height="420">
+<br />
+<br />
 
 
 ## Parameters
