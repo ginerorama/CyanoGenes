@@ -55,7 +55,7 @@ master = Tk() #Declaring of main window
 master.geometry("330x420")
 master.title("CyanoGenes")
 dir_path = os.path.dirname(os.path.realpath(__file__))
-imagen1=PhotoImage(file=dir_path+"/Logo.gif") 
+imagen1=PhotoImage(file=dir_path+"/images/Logo.gif") 
 label1 = Label(master, image=imagen1).pack() 
 
 
