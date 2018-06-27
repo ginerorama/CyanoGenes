@@ -11,7 +11,7 @@ CyanoGenes is an user-friendly gene annotation tool for cyanobacteria developed 
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/ginerorama/PrimerGenerator/blob/master/pic1.png" width="370" height="590">
+<img src="https://github.com/ginerorama/CyanoGenes/blob/master/images/picture1.png" width="330" height="420">
 <br />
 <br />
 
