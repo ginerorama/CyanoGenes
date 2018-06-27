@@ -2,12 +2,7 @@
 ![alt text](https://github.com/ginerorama/CyanoGenes/blob/master/images/Logo.gif)
 <br />
 <br />
-A user-friendly gene annotation tool for cyanobacteria developed in Python using a Tkinter graphical interface. CyanoGenes uses a list of genes to annotate and calculate functional categories enrinchment according to Cyanobase classification.
-
-Important note: Several tests have been performed with this program to design 
-primers that worked fine for PCR experiments. However this software is still experimental, 
-and their results should be taken with cautions. 
-
+CyanoGenes is an user-friendly gene annotation tool for cyanobacteria developed in Python using a Tkinter graphical interface. CyanoGenes uses a list of genes to annotate and calculate functional categories enrinchment according to Cyanobase classification.
 
 
 
