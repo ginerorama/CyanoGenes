@@ -17,21 +17,21 @@ CyanoGenes is an user-friendly gene annotation tool for cyanobacteria developed 
 
 ## Requires
 	
-Tkinter module
+Tkinter, Numpy and Scipy modules
 
 <br />
 
-important note: Primer.gif file containning logo has to be at the same path of PrimerGenerator.py
+
 
 <br />
 
 ## Usage
 <br />
 
-`python PrimerGenerator.py`
+`python CyanoGenes.py`
 
 <br />
-PrimerGenerator can be run in UNIX and MAC systems with python 2.7. GUI is optimized for Tkinter in MacOSX, weird aspects for main Tkinter window can be observed in UNIX systems.
+CyanoGenes can be run in UNIX and MAC systems with python 2.7. GUI is optimized for Tkinter in MacOSX, weird aspects for main Tkinter window can be observed in UNIX systems.
 <br />
 
 
@@ -39,8 +39,11 @@ PrimerGenerator can be run in UNIX and MAC systems with python 2.7. GUI is optim
 <br />
 
 
-PrimerGenerator requieres a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. The input file is loaded using the Browse button.
+CyanoGenes requieres a txt file containing all the orfs in a single column. CyanoGenes admits both Gene symbols and orfs (petE; sll0199). 
 <br /><br />
+
+
+
 
 
 ## Parameters
