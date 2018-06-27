@@ -1,5 +1,5 @@
 # CyanoGenes v.0.1
-![alt text](https://github.com/ginerorama/PrimerGenerator/blob/master/Primer.gif)
+![alt text](https://github.com/ginerorama/CyanoGenes/blob/master/images/Logo.gif)
 A user-friendly gene annotation tool for cyanobacteria developed in Python using a Tkinter graphical interface. CyanoGenes uses a list of genes to annotate and calculate functional categories enrinchment according to Cyanobase classification.
 
 Important note: Several tests have been performed with this program to design 
